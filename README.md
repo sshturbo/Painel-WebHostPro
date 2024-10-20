@@ -2,7 +2,7 @@
 
 
 ### Tela Inicial
-![Tela Inicial](./tela-de-login.png)
+![Tela de login](./1000508750.png)
 
 ### Tela de cadastro
 ![Tela de cadastro](./tela-cadastro.png)
